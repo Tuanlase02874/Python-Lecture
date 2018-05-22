@@ -1,8 +1,8 @@
 """
 Remote control with undo
 
-Author: m1ge7
-Date: 2014/03/28
+Author: tuanla
+Date: 2018
 """
 
 

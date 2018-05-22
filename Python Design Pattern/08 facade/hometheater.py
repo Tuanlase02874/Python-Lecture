@@ -1,8 +1,8 @@
 """
 Home Theater facade
 
-Author: m1ge7
-Date: 2014/03/29
+Author: tuanla
+Date: 2018
 """
 
 class Amplifier:

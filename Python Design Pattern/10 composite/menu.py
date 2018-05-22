@@ -1,8 +1,8 @@
 """
 Menus with composite pattern
 
-Author: m1ge7
-Date: 2014/3/30
+Author: tuanla
+Date: 2018
 """
 
 from abc import ABCMeta

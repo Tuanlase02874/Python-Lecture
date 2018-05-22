@@ -1,8 +1,8 @@
 """
 Ducks problem with support for gooses (adapter).
 
-Author: m1ge7
-Date: 2014/03/22
+Author: tuanla
+Date: 2018
 """
 
 from abc import ABCMeta, abstractmethod

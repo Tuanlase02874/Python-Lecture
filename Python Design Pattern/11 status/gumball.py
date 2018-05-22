@@ -1,8 +1,8 @@
 """
 Original gumball machine (without patterns)
 
-Author: m1ge7
-Date: 2014/03/30
+Author: tuanla
+Date: 2018
 """
 
 

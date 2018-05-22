@@ -1,8 +1,8 @@
 """
 Gumball machine with winner state
 
-Author: m1ge7
-Date: 2014/03/30
+Author: tuanla
+Date: 2018
 """
 
 import random

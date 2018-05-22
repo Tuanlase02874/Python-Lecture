@@ -1,8 +1,8 @@
 """
 Simple pizza factory
 
-Author: m1ge7
-Date: 2014/03/25
+Author: tuanla
+Date: 2018
 """
 
 from abc import ABCMeta, abstractmethod

@@ -1,8 +1,8 @@
 """
 Chocolate boiler with thread-safe singleton
 
-Author: m1ge7
-Date: 2014/03/27
+Author: tuanla
+Date: 2018
 """
 
 import thread
