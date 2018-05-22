@@ -1,5 +1,5 @@
 # Head First Design Patterns Python
-===================================
+
 <ol start="01">
 	<li>Strategy</li>
 	<li>Observer</li>
